@@ -66,11 +66,13 @@ A Python-based command-line program that:
 
 ```bash
 python topsis.py <InputDataFile> <Weights> <Impacts> <OutputFile>
+```
 
 #### 🔹 Example
 
 ```bash
 python topsis.py data.csv "1,1,1,1,1" "+,+,-,+,+" output.csv
+```
 
 ### 🔹 Input File Format
 
@@ -87,6 +89,7 @@ M2,0.89,0.79,3.9,68.3
 M3,0.70,0.49,6.0,48.6
 M4,0.85,0.72,5.1,62.4
 M5,0.78,0.68,4.4,55.9
+```
 
 ### 🔹 Output File Format
 
@@ -104,6 +107,7 @@ M2,0.89,0.79,3.9,68.3,0.8921,1
 M3,0.70,0.49,6.0,48.6,0.3014,5
 M4,0.85,0.72,5.1,62.4,0.6558,2
 M5,0.78,0.68,4.4,55.9,0.5336,3
+```
 
 ### 🔹 Validations Implemented
 
@@ -135,16 +139,19 @@ https://pypi.org/project/Topsis-Raiza-102303068/
 
 ```bash
 pip install Topsis-Raiza-102303068
+```
 
 ### 🔹 Command Line Usage (After Installation)
 
 ```bash
 topsis <InputDataFile> <Weights> <Impacts> <OutputFile>
+```
 
 #### Example
 
 ```bash
 topsis data.csv "1,1,1,1,1" "+,+,-,+,+" output.csv
+```
 
 ### 🔹 Dependencies
 
