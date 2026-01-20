@@ -34,20 +34,33 @@ Assign/
 │   ├── output.csv
 │   └── topsis.py
 │
+├── Part3_topsis_web/
+│   ├── app.py
+│   ├── streamlit_app.py
+│   ├── requirements.txt
+│   ├── templates/
+│   ├── uploads/
+│   ├── results/
+│   └── Screenshots/
+│       ├── email_result.png
+│       ├── part1.png
+│       ├── part3.png
+│       ├── part3_new.png
+│       ├── raiza.png
+│       └── raiza2.png
+│
 ├── Topsis-Raiza-102303068/
+│   ├── dist/
 │   ├── topsis_raiza_102303068/
+│   │   ├── __init__.py
+│   │   └── topsis.py
 │   ├── setup.py
 │   ├── pyproject.toml
 │   ├── LICENSE
 │   └── README.md
 │
-├── Part3_topsis_web/
-│   ├── Screenshots/
-│   │   ├── terminal_run.png
-│   │   ├── pypi_page.png
-│   │   ├── ui_form.png
-│   │   └── email_result.png
-│   └── README.md
+└── README.md
+
 ```
 
 ## 🚀 Part-I: Command Line TOPSIS Program
