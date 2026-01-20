@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+Topsis_Raiza_102303068.egg-info/PKG-INFO
+Topsis_Raiza_102303068.egg-info/SOURCES.txt
+Topsis_Raiza_102303068.egg-info/dependency_links.txt
+Topsis_Raiza_102303068.egg-info/entry_points.txt
+Topsis_Raiza_102303068.egg-info/requires.txt
+Topsis_Raiza_102303068.egg-info/top_level.txt
+topsis_raiza_102303068/__init__.py
+topsis_raiza_102303068/topsis.py

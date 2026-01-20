@@ -1,0 +1,2 @@
+[console_scripts]
+topsis = topsis_raiza_102303068.topsis:main
