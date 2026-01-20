@@ -161,7 +161,8 @@ topsis data.csv "1,1,1,1,1" "+,+,-,+,+" output.csv
 
 ### 🔹 PyPI Package Screenshot
 
-![PyPI Package Screenshot](Screenshots/part2.png)
+![PyPI Package Screenshot](Screenshots/part2_a.png)
+![PyPI Package Screenshot](Screenshots/part2_b.png)
 
 ## 🌐 Part-III: TOPSIS Web Application (Streamlit)
 
